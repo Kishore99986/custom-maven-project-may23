@@ -71,5 +71,9 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <distributionManagement>
+      <downloadUrl>http://54.186.27.177:8081/repository/testrepo/</downloadUrl>
+      <status>deployed</status>
+  </distributionManagement>	    
   </build>
 </project>
